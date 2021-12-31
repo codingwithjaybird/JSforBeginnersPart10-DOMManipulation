@@ -1,0 +1,37 @@
+body {
+  max-width: 80vw;
+  margin: auto;
+  margin-top: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.muted {
+  color: #ccc;
+}
+
+.loud {
+  color: fuchsia;
+  font-size: 1.2rem;
+  font-style: italic;
+  font-weight: bold;
+}
+
+ol {
+  border: 1px solid #000;
+  border-radius: 10px;
+  padding: 10px;
+  list-style: none;
+}
+
+li {
+  padding: 10px;
+}
+
+.light {
+  background-color: #ffe6ff;
+}
+
+.dark {
+  background-color:  #5200cc;
+  color: white;
+}
